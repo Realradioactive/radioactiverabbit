@@ -44,7 +44,8 @@ ve kullanıma hazır halde :)
 Ek not: program payload üretirken msfvenom ile encodersiz olarak üretilir ve eklenir. istek dahilinde .sh dosyası içerisinde msfvenom payload oluşturma
 kod satırına encoder eklenerek özelleştirilebilir. x86/shikata_ga_nai gibi ama bu önerilmez.
 
-
+![Screenshot](https://user-images.githubusercontent.com/61369603/86288658-ed8ad580-bbf2-11ea-8746-da84a4b1422c.png)
+![vrs](https://user-images.githubusercontent.com/61369603/86288688-faa7c480-bbf2-11ea-9376-232b4205af06.png)
 
 
 + Please, don't upload to VirusTotal! Use https://antiscan.me
