@@ -45,9 +45,7 @@ Ek not: program payload üretirken msfvenom ile encodersiz olarak üretilir ve e
 kod satırına encoder eklenerek özelleştirilebilir. x86/shikata_ga_nai gibi ama bu önerilmez.
 
 
-[img]https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/Screenshot.png?token=AOUG2A4I3VR37YI7MDBMWFC67TYEM[/img]
 
- “https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/vrs.png?token=AOUG2A6LWEBJ46TUKWCOEI267TYEU”
 
 + Please, don't upload to VirusTotal! Use https://antiscan.me
 
