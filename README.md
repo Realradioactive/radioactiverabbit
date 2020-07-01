@@ -43,10 +43,21 @@ ve kullanıma hazır halde :)
 
 Ek not: program payload üretirken msfvenom ile encodersiz olarak üretilir ve eklenir. istek dahilinde .sh dosyası içerisinde msfvenom payload oluşturma
 kod satırına encoder eklenerek özelleştirilebilir. x86/shikata_ga_nai gibi ama bu önerilmez.
-https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/vrs.png?token=AOUG2A6LWEBJ46TUKWCOEI267TYEU
 
-https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/Screenshot.png?token=AOUG2A4I3VR37YI7MDBMWFC67TYEM
 
+
+<img
+src = “https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/Screenshot.png?token=AOUG2A4I3VR37YI7MDBMWFC67TYEM”
+raw = true
+alt = “Konu Zamirleri”
+style = “margin-right: 10px;”
+/>
+<img
+src = “https://raw.githubusercontent.com/Realradioactive/radioactiverabbit/master/images/vrs.png?token=AOUG2A6LWEBJ46TUKWCOEI267TYEU”
+raw = true
+alt = “Konu Zamirleri”
+style = “margin-right: 10px;”
+/>
 + Please, don't upload to VirusTotal! Use https://antiscan.me
 
 + Legal disclaimer:
